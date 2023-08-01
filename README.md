@@ -1,12 +1,13 @@
 <h1 align="center">Hey Everyone👋, I'm Aditi Naithani</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png"> </div>![aditiformals1](https://github.com/ditii-n/ditii-n/assets/102923973/07d47567-c314-4957-b26f-c49b9c93f6cc)
+<!-- <div align="center"> <img src="https://github.com/ditii-n/ditii-n/assets/102923973/07d47567-c314-4957-b26f-c49b9c93f6cc"> </div> -->
 
 <h3 align="center">dedicated and versatile Full Stack Developer with a track record of delivering Efficient web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ditii-n&label=Profile%20views&color=0e75b6&style=flat" alt="ditii-n" /> </p>
 
 - 🌱 I’m currently learning **TypeScript,NextJs**
-
+- 👨‍💻 All of my projects are available at [https://github.com/ditii-n](https://github.com/ditii-n)
+-  💬 Ask me about **MERN stack development**
 - 📫 How to reach me **aditinaithani02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -25,4 +26,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ditii-n&show_icons=true&locale=en" alt="ditii-n" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ditii-n&" alt="ditii-n" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ditii-n&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/ditii-n/ditii-n/blob/output/github-contribution-grid-snake.svg)
 
