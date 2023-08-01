@@ -2,6 +2,7 @@
 <!-- <div align="center"> <img src="https://github.com/ditii-n/ditii-n/assets/102923973/07d47567-c314-4957-b26f-c49b9c93f6cc"> </div> -->
 
 <h3 align="center">dedicated and versatile Full Stack Developer with a track record of delivering Efficient web applications.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ditii-n&label=Profile%20views&color=0e75b6&style=flat" alt="ditii-n" /> </p>
 
